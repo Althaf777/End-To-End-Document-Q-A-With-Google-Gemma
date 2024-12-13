@@ -28,5 +28,20 @@ An interactive and efficient Question & Answer system leveraging **Google Gemma*
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/qa-system.git
-   cd qa-system
+   git clone https://github.com/Althaf777/End to End QA with Google Gemma.git
+
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the streamlit application
+    ```bash
+   streamlit run app.py
+
+## Usage
+1. Upload PDF documents
+2. Enter your query in the input box
+3. Receive accurate, context-aware answers in real time.
+
+   
+
