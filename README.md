@@ -43,5 +43,44 @@ An interactive and efficient Question & Answer system leveraging **Google Gemma*
 2. Enter your query in the input box
 3. Receive accurate, context-aware answers in real time.
 
+## User Interface
+
+![Screenshot 2024-12-10 161751](https://github.com/user-attachments/assets/1167bf44-76c5-4b39-8e38-df6961409cb4)
+
+## Technologies Used
+**Google Gemma**: For generating insights from text.
+**GROQ API**: Efficient answer retrieval.
+**Google Generative AI**: Embedding text into vector representations.
+**FAISS**: Stores vector embeddings, Fast Approximate Nearest Neighbors search.
+**Streamlit**: Frontend framework for creating the interactive UI.
+
+## Project Structure
+```plaintext
+.
+├── app.py               # Streamlit application
+├── utils/               # Helper functions
+│   ├── pdf_processing.py
+│   ├── embedding_utils.py
+│   └── faiss_search.py
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
+```
+
+## Future Enhancements
+- Support for additional document formats (e.g., Word, HTML).
+- Enhanced query understanding with NLP techniques.
+- Integration with more AI APIs for diverse use cases.
+
+
+## Contributing
+Contributions are welcome! 
+
+## Acknowledgments
+Special thanks to the developers of Google Gemma, GROQ API, and FAISS for their contributions to the open-source community.
+
+
+
+
+
    
 
