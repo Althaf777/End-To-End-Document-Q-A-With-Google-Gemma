@@ -44,7 +44,6 @@ An interactive and efficient Question & Answer system leveraging **Google Gemma*
 3. Receive accurate, context-aware answers in real time.
 
 ## User Interface
-
 ![Screenshot 2024-12-10 161751](https://github.com/user-attachments/assets/1167bf44-76c5-4b39-8e38-df6961409cb4)
 
 ## Technologies Used
