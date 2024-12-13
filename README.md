@@ -57,10 +57,6 @@ An interactive and efficient Question & Answer system leveraging **Google Gemma*
 ```plaintext
 .
 ├── app.py               # Streamlit application
-├── utils/               # Helper functions
-│   ├── pdf_processing.py
-│   ├── embedding_utils.py
-│   └── faiss_search.py
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
